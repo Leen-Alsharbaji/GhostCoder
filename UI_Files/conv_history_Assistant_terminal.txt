@@ -1,0 +1,4 @@
+User: hey how can i write hello world using python
+Assistant:  Writing "Hello, World!" in Python is quite straightforward. Here's a simple example:
+
+```python
